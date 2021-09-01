@@ -20,7 +20,7 @@
     "@react-atomic-ui/core": "*",
     "@react-atomic-ui/theme": "*",
     "@react-atomic-ui/components": "*",
-    "next": "10.0.7",
+    "next": "11.1.1",
     "next-mdx-enhanced": "^5.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
